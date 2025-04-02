@@ -12,3 +12,9 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
+
+.. automatic code documentation with tool autodoc2 (esme ye tool hast)
+API Reference
+=============
+
+.. autodoc2-doc::
