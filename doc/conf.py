@@ -19,7 +19,7 @@ extensions = ["myst_parser", "autodoc2"]
 # extensions = ["myst_parser"]
 
 
-autodoc2_packages = ["src/sum_sahand_test.py"]
+autodoc2_packages = ["../src/sum_sahand_test.py"]
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
